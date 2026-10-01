@@ -1,2 +1,2 @@
 # second-contribution
-caacghgcacgacgacgacgajgahjgahjgah
+This is my second contribution
